@@ -5,30 +5,23 @@ date: 2026-03-29
 
 # 🎯 My Hobbies and Interests
 
-In my free time, I enjoy doing different activities that help me relax and learn new things.
+In my free time, I enjoy activities that help me relax and connect with nature. I like walking outdoors, exercising, and admiring the landscapes and rivers of my region. These moments allow me to feel calm and appreciate the environment around me.
 
-One of my favorite hobbies is using technology. I like learning about programming and working on projects related to software development. This helps me improve my professional skills.
+I also enjoy listening to music, which helps me reduce stress and stay motivated in my daily life.
 
-I also enjoy watching videos and listening to music. These activities help me improve my listening skills in English and learn new vocabulary.
+One of my main interests is to **improve my knowledge as a software developer**. I see technology as an important part of my future. For this reason, I used this activity as an opportunity to apply my skills by working with GitHub and programming in JavaScript.
 
-On weekends, I usually spend time resting or sharing moments with my family. Sometimes I watch movies or explore new topics on the internet.
-
-In my opinion, hobbies are very important because they help reduce stress and improve personal development.
-
----
-
-## 🎥 Video
-
-(Here you can insert a YouTube video about hobbies or your interests)
+These hobbies and interests show my commitment to continuous learning and my ability to balance personal well-being with professional growth.
 
 ---
 
 ## 🎧 Audio Practice
 
-Hello, my name is Arnol. Today I am going to talk about my hobbies. In my free time, I enjoy using technology and learning about programming. I also like watching videos and listening to music. These activities help me relax and improve my English.
+Hello, my name is Arnol. Today I am going to talk about my hobbies and interests. In my free time, I enjoy walking outdoors, admiring landscapes and rivers, and listening to music to relax. One of my main interests is improving my knowledge as a software developer. I used this activity to practice my technological skills using GitHub and JavaScript. These activities help me grow professionally and improve my English.
 
 ---
 
 ## 🎯 Reflection
 
-This topic helps me express my interests and use vocabulary related to daily activities and free time.
+This topic helps me clearly express my hobbies and interests, as well as the difference between personal activities and professional goals. It also allows me to use vocabulary related to daily life, technology, and learning, improving my communication skills in English.
+programming. I also like watching videos and listening to music. These activities help me relax and improve my English.
