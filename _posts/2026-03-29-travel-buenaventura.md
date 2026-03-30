@@ -19,7 +19,7 @@ In my opinion, Buenaventura and Ladrilleros are wonderful places to visit becaus
 
 ## 🎥 Video
 
-(You can insert a YouTube video about Buenaventura or Ladrilleros here)
+https://www.tiktok.com/@danisjourneys/video/7599452944529919240?is_from_webapp=1&sender_device=pc
 
 ---
 
