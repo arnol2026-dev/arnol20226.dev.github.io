@@ -17,6 +17,14 @@ In my opinion, technology is a powerful tool, but we must use it carefully. Educ
 
 ## 🎧 Audio Practice
 
+<iframe 
+  src="https://drive.google.com/file/d/1GIqXiDlDdLeCgcs_4sPraC49yWdGYjVC/preview" 
+  width="100%" 
+  height="80" 
+  allow="autoplay">
+</iframe>
+
+
 Hello, my name is Arnol. Today I am going to talk about current events. Technology is very important in our lives. However, we must use it responsibly and think critically about the information we see.
 
 ---
