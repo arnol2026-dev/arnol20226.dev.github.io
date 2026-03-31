@@ -17,9 +17,12 @@ In my opinion, Buenaventura and Ladrilleros are wonderful places to visit becaus
 
 ---
 
+## 🎥 Travel Video
+
 Here is a video about Buenaventura:
 
 👉 [Watch the video on TikTok](https://www.tiktok.com/@danisjourneys/video/7599452944529919240)
+
 ---
 
 ## 🎧 Audio Practice
@@ -27,10 +30,13 @@ Here is a video about Buenaventura:
 <iframe 
   src="https://drive.google.com/file/d/1WeoAFNX_S0V0y89tCjhd6qPg9HehQZBb/preview" 
   width="100%" 
-  height="80" 
+  height="120" 
   allow="autoplay">
 </iframe>
 
+---
+
+## 🗣️ Audio Script
 
 Hello, my name is Arnol. Today I am going to talk about a place I visited. Last year, I visited Buenaventura and Ladrilleros. It is a beautiful place with amazing beaches. I enjoyed the ocean and the peaceful environment. It was a great experience.
 
