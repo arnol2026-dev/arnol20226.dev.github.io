@@ -16,6 +16,12 @@ The hotel was comfortable, and the food was delicious. I also learned about the 
 In my opinion, Buenaventura and Ladrilleros are wonderful places to visit because they offer natural beauty and a unique experience.
 
 ---
+
+Here is a video about Buenaventura:
+
+👉 [Watch the video on TikTok](https://www.tiktok.com/@danisjourneys/video/7599452944529919240)
+---
+
 ## 🎧 Audio Practice
 
 <iframe 
@@ -25,12 +31,6 @@ In my opinion, Buenaventura and Ladrilleros are wonderful places to visit becaus
   allow="autoplay">
 </iframe>
 
-Here is a video about Buenaventura:
-
-👉 [Watch the video on TikTok](https://www.tiktok.com/@danisjourneys/video/7599452944529919240)
----
-
-## 🎧 Audio Practice
 
 Hello, my name is Arnol. Today I am going to talk about a place I visited. Last year, I visited Buenaventura and Ladrilleros. It is a beautiful place with amazing beaches. I enjoyed the ocean and the peaceful environment. It was a great experience.
 
