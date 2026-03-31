@@ -22,6 +22,13 @@ In my opinion, critical thinking and media literacy are essential skills in mode
 
 ## 🎧 Audio Practice
 
+<iframe 
+  src="https://drive.google.com/file/d/1EQDHAB8A3vknDkeAOMV6Eo-E89lJvRKe/preview" 
+  width="100%" 
+  height="80" 
+  allow="autoplay">
+</iframe>
+
 Hello, my name is Arnol. Today I am going to talk about critical thinking. In the digital world, not all information is true. It is important to analyze information and identify reliable sources. Critical thinking helps us make better decisions.
 
 ---
